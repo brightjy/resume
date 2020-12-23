@@ -6,14 +6,10 @@
   summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	
 <ul class="resume-item-list">
 	<li>
-	**키자니아 멤버십 서비스 구축 프로젝트** <br/>
-	- 프로젝트 요약 : 유료멤버십 서비스 가입/이용/해지 서비스 구축
-	- 수행 업무 : 유료멤버십 서비스 UI/UX 기획, 클라이언트/서버 개발 
+	키자니아 멤버십 서비스 구축 프로젝트
 	</li>
 	<li>
-	**TCRM(Tennond CRM) 프로젝트** </br>
-	- 프로젝트 요약 : 기존 텐노드 멤버십 시스템에 고객관리 기능을 더해 CRM 서비스 구축
-	- 수행 업무 : 혜택 지급/관리 파트 클라이언트/서버 개발
+	TCRM(Tennond CRM) 프로젝트
 	</li>
 </ul>
 
